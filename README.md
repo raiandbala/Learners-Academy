@@ -15,7 +15,7 @@ The goal of this project is to apply servlet, jsp and JDBC concepts.
 9.	Create a CSS file to format the contents.
 10.	Debug and Test the project.
 
-## Technologies and tools Used
+## Technologies and tools Used:
 •	Servlet: to do the business logic and works a controller for the project. 
 
 •	JSP: to handle the presentation view.
